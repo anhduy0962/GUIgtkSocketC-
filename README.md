@@ -1,4 +1,5 @@
-# GUIgtkSocketC-
+Please define main()
+
 
 sudo apt-get install libmysqlcppconn-dev
 sudo apt-get install libgtkmm-3.0-dev
